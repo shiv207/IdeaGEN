@@ -1,44 +1,25 @@
-ideaGEN: The Invention Engine
+# ideaGEN: The Invention Engine
 
-Because coming up with good ideas is hard.
+**Because coming up with good ideas is hard.**
 
-Let’s be honest: the hardest part of a hackathon isn't the coding—it's figuring out what to build that isn't another to-do list or a weather app. We built ideaGEN because we were tired of staring at a blank whiteboard.
+Let’s be honest: the hardest part of a hackathon isn't the coding—it's figuring out what to build that isn't another to-do list or a weather app. We built **ideaGEN** because we were tired of staring at a blank whiteboard.
 
-What is it?
+### What is it?
+It’s an AI that finds problems you didn't even know you had. While other tools help you code, ideaGEN tells you *what* to code. It digs through messy feedback and "normal human complaining" to find actual billion-dollar product ideas.
 
-It’s an AI that finds problems you didn't even know you had. While other tools help you code, ideaGEN tells you what to code. It digs through messy feedback and "normal human complaining" to find actual billion-dollar product ideas.
+### How it works (The Simple Version)
+1. **The Rant**: You feed it raw transcripts, support tickets, or just a list of things that annoy you.
+2. **The Brain**: Claude 3.5 Sonnet does the heavy lifting, finding the "hidden friction" in your data.
+3. **The Magic**: It spits out a full PRD and a live UI mock. 
 
-How it works (The Simple Version)
+### The Tech Stack
+* **Brain**: Claude 3.5 (The smart one)
+* **Storage**: Supabase (The reliable one)
+* **Frontend**: Next.js (The fast one)
+* **Vibe**: 100% Innovation. 0% To-Do Lists.
 
-1.
-The Rant: You feed it raw transcripts, support tickets, or just a list of things that annoy you.
+### Why we’ll win
+Because while everyone else is building a "Social Media for Cats," we’re using AWS-ready tech to solve the one problem every founder has: **"What do I build next?"**
 
-2.
-The Brain: Claude 3.5 Sonnet does the heavy lifting, finding the "hidden friction" in your data.
-
-3.
-The Magic: It spits out a full PRD and a live UI mock.
-
-The Tech Stack
-
-•
-Brain: Claude 3.5 (The smart one)
-
-•
-Storage: Supabase (The reliable one)
-
-•
-Frontend: Next.js (The fast one)
-
-•
-Vibe: 100% Innovation. 0% To-Do Lists.
-
-Why we’ll win
-
-Because while everyone else is building a "Social Media for Cats," we’re using AWS-ready tech to solve the one problem every founder has: "What do I build next?"
-
-
-
-
-Built for the AWS Hackathon 2026. No weather apps were harmed in the making of this project.
-
+---
+**Built for the AWS Hackathon 2026. No weather apps were harmed in the making of this project.**
