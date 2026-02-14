@@ -17,9 +17,3 @@ It’s an AI that finds problems you didn't even know you had. While other tools
 * **Storage**: Supabase (The reliable one)
 * **Frontend**: Next.js (The fast one)
 * **Vibe**: 100% Innovation. 0% To-Do Lists.
-
-### Why we’ll win
-Because while everyone else is building a "Social Media for Cats," we’re using AWS-ready tech to solve the one problem every founder has: **"What do I build next?"**
-
----
-**Built for the AWS Hackathon 2026. No weather apps were harmed in the making of this project.**
